@@ -1,29 +1,11 @@
-# Hi, I'm Ghufran 👋
+[![header](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.png)](https://ni5arga.com)
 
-### 🚀 BTech CSE Student | AI & ML
-I am passionate about technology, programming and building projects.
+<samp>
 
-## 💻 Tech Stack
+:3
 
-- C
-- C++
-- Python
-- HTML
-- CSS
-- JavaScript
-- React
-- SQL
+backend // cybersecurity // linux
 
-## 🌱 Currently Learning
+<a href="https://www.ghufranfazal.vercel.app"><strong>website</strong></a> | <a href="https://ghufranfazal.vercel.app"><strong>blogs & research</strong></a> | <a href="https://x.com/ghufranfxl"><strong>x (twitter)</strong></a> | <a href="mailto:ghufranfazalme@gmail.com"><strong>email</strong></a>
 
-- Data Structures & Algorithms
-- Full Stack Development
-- AI & Machine Learning
-
-## 📫 Connect With Me
-
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-
----
-
-⭐ Building, learning and improving every day.
+</samp>
