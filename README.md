@@ -6,7 +6,7 @@
 
 :3
 
-backend // cybersecurity // linux
+python // web dev // linux
 
 <a href="https://.ghufranfazal.vercel.app"><strong>website</strong></a> | <a href="https://x.com/ghufranfxl"><strong>x (twitter)</strong></a> | <a href="mailto:ghufranfazalme@gmail.com"><strong>email</strong></a>
 
