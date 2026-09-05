@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghufranfazal/ghufranfazal/main/public/header.png" width="100%" height="300">
+  <img src="https://raw.githubusercontent.com/ghufranfazal/ghufranfazal/main/public/header.png" width="100%" height="400">
 </p>
 
 <samp>
