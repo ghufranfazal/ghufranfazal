@@ -10,7 +10,7 @@
 
 python // web dev // linux
 
-<a target="_blank" href="https://ghufranfazal.vercel.app"><strong>website</strong></a> | <a target="_blank" href="https://x.com/ghufranfxl"><strong>x (twitter)</strong></a> | <a target="_blank" href="mailto:ghufranfazalme@gmail.com"><strong>email</strong></a>
+<a target="_blank" href="https://ghufranfazal.vercel.app"><strong>website</strong></a> | <a target="_blank" href="https://x.com/ghufranfzl"><strong>x (twitter)</strong></a> | <a target="_blank" href="mailto:ghufranfazalme@gmail.com"><strong>email</strong></a>
 
 
 </samp>
